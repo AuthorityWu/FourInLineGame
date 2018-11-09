@@ -1,6 +1,9 @@
 # FourInLineGame
-本项目是一个四子棋人机。原意是用于测试蒙特卡洛搜索树算法和alpha-beta裁剪算法，用于学习用途。
+## 项目简介
+本项目是一个四子棋人机。原意是用于测试蒙特卡洛搜索树算法和alpha-beta裁剪算法，推出该项目是记录学习。
+本项目的人机不具备该游戏的下棋策略，人机下棋的都是仅仅建立在基础的模拟算法的基础上，导致模拟的时间在6-10s左右。
+感兴趣的可以结合下棋策略，为模拟算法提供优化。欢迎任何人参与该项目和指出BUG及不足之处，提出建议。
 
-注意：
-该项目四子棋游戏参照了三子棋 https://github.com/int8/monte-carlo-tree-search.git 。
-该项目
+### 注意：
+- 该项目四子棋游戏参照了三子棋 https://github.com/int8/monte-carlo-tree-search.git 。
+- 该项目四子棋的游戏界面来源于 https://www.shiyanlou.com/courses/746 。
